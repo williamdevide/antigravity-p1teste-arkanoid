@@ -64,3 +64,8 @@ perfeito, atualize o repositorio
 **Data/Hora**: 2026-03-30
 **Prompt (Atualização do README)**:
 atualize o readme.md
+
+## Interação 8
+**Data/Hora**: 2026-03-30
+**Prompt (Correção GitHub Pages)**:
+quando publiquei a page pelo repositorio do github ao inves de carregar o jogo carregou o readme.md, corrija
