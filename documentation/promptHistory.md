@@ -59,3 +59,8 @@ quero blocos coloridos nas fases, quero a raquete com um visual um pouco mais al
 **Data/Hora**: 2026-03-30
 **Prompt (Atualizar Repositório)**:
 perfeito, atualize o repositorio
+
+## Interação 7
+**Data/Hora**: 2026-03-30
+**Prompt (Atualização do README)**:
+atualize o readme.md
