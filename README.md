@@ -18,7 +18,9 @@
 
 ## 🇧🇷 Sobre o Projeto (PT-BR)
 
-Este repositório contém a implementação do projeto **Arkanoid Antigravity**, desenvolvido com o auxílio especializado do **Antigravity-kit** (SENAI Ourinhos Edition). O projeto foi desenhado sob demandas modernas, utilizando a integração de inteligência artificial para maximizar a produtividade e a qualidade do código.
+Este repositório contém a implementação do projeto **Arkanoid Antigravity**, desenvolvido com a orquestração e o auxílio especializado do **Antigravity-kit** (SENAI Ourinhos Edition). O projeto é gerenciado seguindo rigorosamente o **Framework de 3 Camadas** (Frontend, Backend, Documentação/Diretrizes), maximizando produtividade, previsibilidade e a qualidade do código.
+
+O jogo é uma versão moderna do clássico Arkanoid, contando com uma temática estética **Steampunk Espacial**, diversos níveis de dificuldade, fases progressivas e sistema de drops e *power-ups* (Multi-ball, Bar Expansion, Super Tiro).
 
 ### 🤖 Agentes e Skills Utilizados
 - **@frontend-specialist** (com `frontend-design`)
@@ -26,16 +28,18 @@ Este repositório contém a implementação do projeto **Arkanoid Antigravity**,
 - **@project-planner** (planejamento de estruturação)
 - *Skill Pack Empregado*: `clean-code`, `database-design`
 
-### 🏗️ Estrutura de Diretórios
-- `/frontend` - Interface moderna com React + Vite + TailwindCSS.
-- `/backend` - Servidor Node.js utilizando Express.
-- `/documentation` - Arquivos de arquitetura e histórico de prompts.
+### 🏗️ Estrutura de Diretórios (Framework de 3 Camadas)
+- `/frontend` - Camada de Interface: Lógica visual e mecânica do Game Loop (React + Vite + TailwindCSS).
+- `/backend` - Camada de API/Dados: Servidor Node.js (preparado para Firebase).
+- `/documentation` & `/directives` & `/execution` - Camada de Orquestração: Arquivos de arquitetura, histórico de prompts e diretrizes do orquestrador Antigravity.
 
 ---
 
 ## 🇺🇸 About the Project (EN)
 
-This repository contains the implementation of the **Arkanoid Antigravity** project, developed with the specialized assistance of **Antigravity-kit** (SENAI Ourinhos Edition). The project was designed meeting modern demands, utilizing artificial intelligence integration to maximize productivity and code quality.
+This repository contains the implementation of the **Arkanoid Antigravity** project, developed with the specialized orchestration of the **Antigravity-kit** (SENAI Ourinhos Edition). The project is managed strictly following the **3-Layer Framework** (Frontend, Backend, Documentation/Directives), maximizing productivity, predictability and code quality.
+
+The game is a modern version of the classic Arkanoid, featuring a **Space Steampunk** thematic aesthetic, multiple difficulty levels, progressive stages, and a power-up drop system (Multi-ball, Bar Expansion, Super Shot).
 
 ### 🤖 Agents and Skills Used
 - **@frontend-specialist** (with `frontend-design`)
@@ -43,10 +47,10 @@ This repository contains the implementation of the **Arkanoid Antigravity** proj
 - **@project-planner** (planning & structuring)
 - *Skill Pack Employed*: `clean-code`, `database-design`
 
-### 🏗️ Directory Structure
-- `/frontend` - Modern interface using React + Vite + TailwindCSS.
-- `/backend` - Node.js server powered by Express.
-- `/documentation` - Architecture diagram files and prompt history.
+### 🏗️ Directory Structure (3-Layer Framework)
+- `/frontend` - Interface Layer: Visual logic and Game Loop mechanics (React + Vite + TailwindCSS).
+- `/backend` - API/Data Layer: Node.js server (prepared for Firebase integration).
+- `/documentation` & `/directives` & `/execution` - Orchestration Layer: Architecture files, prompt history, and Antigravity orchestrator directives.
 
 ---
 <div align="center">

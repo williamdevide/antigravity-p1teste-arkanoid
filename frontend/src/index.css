@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-steampunk-bg text-steampunk-brass m-0 p-0 overflow-hidden font-sans;
+  }
+}
+
+@layer utilities {
+  .animate-decay-bounce {
+    animation: decay-bounce 3s cubic-bezier(0.28, 0.84, 0.42, 1) forwards;
+  }
+}
+
+@keyframes decay-bounce {
+  0%, 100% { transform: translateY(0); }
+  15% { transform: translateY(-30%); }
+  35% { transform: translateY(0); }
+  50% { transform: translateY(-15%); }
+  65% { transform: translateY(0); }
+  80% { transform: translateY(-7.5%); }
+  90% { transform: translateY(0); }
+  95% { transform: translateY(-3.75%); }
+  100% { transform: translateY(0); }
+}
+
+canvas {
+  display: block;
+}
